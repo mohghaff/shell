@@ -57,7 +57,7 @@ rm ./data/processed/user_logs/*ipaddr*
 ls -R ./data/processed > ./data/inventory.txt
 
 
-
+# merge conflict on GitHub
 ###########################################
 
 echo "Project setup is complete!"
