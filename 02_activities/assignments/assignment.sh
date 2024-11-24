@@ -58,6 +58,8 @@ ls -R ./data/processed > ./data/inventory.txt
 
 # trying to create a merge conflict
 
+
+# merge conflict on GitHub
 ###########################################
 
 echo "Project setup is complete!"
