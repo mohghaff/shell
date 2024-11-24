@@ -11,6 +11,7 @@ set -x
 
 mkdir analysis output
 touch README.md
+echo "# Project Name: DSI Consulting Inc." > README.md
 touch analysis/main.py
 
 # download client data
@@ -56,10 +57,7 @@ rm ./data/processed/user_logs/*ipaddr*
 
 ls -R ./data/processed > ./data/inventory.txt
 
-# trying to create a merge conflict
 
-
-# merge conflict on GitHub
 ###########################################
 
 echo "Project setup is complete!"
